@@ -15,6 +15,8 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Awesome Design Systems ](https://github.com/alexpate/awesome-design-systems)
  - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
  - [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+ - [The Twelve-Factor App](https://12factor.net/)
+ - [3factor App](https://3factor.app/)
 
 ## API
 
