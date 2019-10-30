@@ -6,6 +6,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
  - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  - [Programming Principles](https://en.wikipedia.org/wiki/Category:Programming_principles)
+ - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
  - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
  - [Programming Principles](https://github.com/webpro/programming-principles)
  - [Professional Programming](https://github.com/charlax/professional-programming)
