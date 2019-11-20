@@ -26,6 +26,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_scheme_guidelines)
  - [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/)
  - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+ - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) 
 
 ## Security
  - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
