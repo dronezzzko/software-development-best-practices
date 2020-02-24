@@ -64,3 +64,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Sass Guidelines](https://sass-guidelin.es/)
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
+
+ ## Unit Testing
+  - [Unit testing best practices with .NET Core and .NET Standard]([https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices))
+  - [Unit Testing Best Practices: How to Get the Most Out of Your Test Automation](https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou)
