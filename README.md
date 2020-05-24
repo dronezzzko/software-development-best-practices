@@ -25,8 +25,10 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Google Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
  - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_scheme_guidelines)
  - [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/)
+ - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+ - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
+ - [API Security Best Practices]( https://github.com/GitGuardian/APISecurityBestPractices)
  - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
- - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) 
 
 ## Security
  - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
@@ -35,6 +37,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
  - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
  - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
+ - [API Security Best Practices]( https://github.com/GitGuardian/APISecurityBestPractices)
 
 ## Languages
 ### JavaScript
