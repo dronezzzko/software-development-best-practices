@@ -65,6 +65,9 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ### HTML/CSS
  - [Code Guide: Standards for developing consistent, flexible, and sustainable HTML and CSS.](https://codeguide.co/)
  - [CSS Guidelines](https://cssguidelin.es/)
+ - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+ - [Maintainable CSS](https://maintainablecss.com/)
+ - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
  - [Sass Guidelines](https://sass-guidelin.es/)
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
