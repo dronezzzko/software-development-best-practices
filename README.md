@@ -51,6 +51,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ### Python
  - [Python Best Practices Guidebook](https://github.com/realpython/python-guide)
  - [Python Patterns](https://github.com/faif/python-patterns)
+ - [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/)
 ### PHP
  - [PHP: The Right Way](https://phptherightway.com/)
  - [PHP Standards Recommendations](https://www.php-fig.org/psr/)
