@@ -2,25 +2,24 @@
 Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and essential collection of software engineering practices.
 
 ## Common
-
-
  - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  - [Programming Principles](https://en.wikipedia.org/wiki/Category:Programming_principles)
  - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
- - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
  - [Programming Principles](https://github.com/webpro/programming-principles)
  - [Professional Programming](https://github.com/charlax/professional-programming)
  - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
- - [Awesome Design Principles](https://github.com/robinstickel/awesome-design-principles)
- - [System Design Primer](https://github.com/donnemartin/system-design-primer)
- - [Awesome Design Systems ](https://github.com/alexpate/awesome-design-systems)
  - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
  - [Web Fundamentals](https://developers.google.com/web/fundamentals/)
  - [The Twelve-Factor App](https://12factor.net/)
  - [3factor App](https://3factor.app/)
 
-## API
+## System Design
+ - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
+ - [Awesome Design Principles](https://github.com/robinstickel/awesome-design-principles)
+ - [Awesome Design Systems ](https://github.com/alexpate/awesome-design-systems)
+ - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
+## API
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
  - [Google Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
  - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_scheme_guidelines)
