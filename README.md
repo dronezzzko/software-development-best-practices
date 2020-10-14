@@ -15,7 +15,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
 ## System Design
  - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
- - [Awesome Design Systems ](https://github.com/alexpate/awesome-design-systems)
+ - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
  - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 ## API
