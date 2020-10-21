@@ -52,6 +52,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/)
 ### PHP
  - [PHP: The Right Way](https://phptherightway.com/)
+ - [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
  - [PHP Standards Recommendations](https://www.php-fig.org/psr/)
  - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
  - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
