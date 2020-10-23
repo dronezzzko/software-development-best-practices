@@ -55,15 +55,16 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
  - [PHP Standards Recommendations](https://www.php-fig.org/psr/)
  - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
- - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
- - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
  - [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
  - [Laravel & PHP Guidelines](https://spatie.be/guidelines/laravel-php)
+ - **Design Patterns**
+   - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
+   - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
  - **DDD**
-	 - [PHP 7 DDD Cargo Sample
+   - [PHP 7 DDD Cargo Sample
 ](https://github.com/codeliner/php-ddd-cargo-sample)
-	 - [Domain-Driven Design in a PHP project using Symfony](https://github.com/jorge07/ddd-playground/)
-	 - [Domain-driven design e-shop cart demonstration](https://github.com/simara-svatopluk/cart)
+   - [Domain-Driven Design in a PHP project using Symfony](https://github.com/jorge07/ddd-playground/)
+   - [Domain-driven design e-shop cart demonstration](https://github.com/simara-svatopluk/cart)
 ### HTML/CSS
  - [Code Guide: Standards for developing consistent, flexible, and sustainable HTML and CSS.](https://codeguide.co/)
  - [CSS Guidelines](https://cssguidelin.es/)
