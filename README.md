@@ -57,12 +57,12 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
  - [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
  - [Laravel & PHP Guidelines](https://spatie.be/guidelines/laravel-php)
+ - [Refactoring PHP](https://christoph-rumpel.com/2020/8/refactoring-php)
  - **Design Patterns**
    - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
    - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
  - **DDD**
-   - [PHP 7 DDD Cargo Sample
-](https://github.com/codeliner/php-ddd-cargo-sample)
+   - [PHP 7 DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample)
    - [Domain-Driven Design in a PHP project using Symfony](https://github.com/jorge07/ddd-playground/)
    - [Domain-driven design e-shop cart demonstration](https://github.com/simara-svatopluk/cart)
 ### HTML/CSS
