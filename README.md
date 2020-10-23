@@ -12,6 +12,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Web Fundamentals](https://developers.google.com/web/fundamentals/)
  - [The Twelve-Factor App](https://12factor.net/)
  - [3factor App](https://3factor.app/)
+ - [Conventional Commits](https://conventionalcommits.org/)
 
 ## System Design
  - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
