@@ -57,7 +57,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
  - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
  - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
- - [DesignPatternsPHP](https://kevinsmith.io/modern-php-without-a-framework)
+ - [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
  - **DDD**
 	 - [PHP 7 DDD Cargo Sample
 ](https://github.com/codeliner/php-ddd-cargo-sample)
