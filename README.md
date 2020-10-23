@@ -35,7 +35,8 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
  - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
  - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
- - [API Security Best Practices]( https://github.com/GitGuardian/APISecurityBestPractices)
+ - [API Security Best Practices](https://github.com/GitGuardian/APISecurityBestPractices)
+ - [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
 
 ## Languages
 ### JavaScript
