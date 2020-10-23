@@ -20,6 +20,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
 ## API
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+ - [Azure API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
  - [Google API Design Guide](https://cloud.google.com/apis/design/)
  - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
  - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
