@@ -58,6 +58,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
  - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
  - [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
+ - [Laravel & PHP Guidelines](https://spatie.be/guidelines/laravel-php)
  - **DDD**
 	 - [PHP 7 DDD Cargo Sample
 ](https://github.com/codeliner/php-ddd-cargo-sample)
