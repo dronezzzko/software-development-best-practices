@@ -58,6 +58,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
  - [Laravel & PHP Guidelines](https://spatie.be/guidelines/laravel-php)
  - [Refactoring PHP](https://christoph-rumpel.com/2020/8/refactoring-php)
+ - [Modern PHP Security](https://labs.detectify.com/2020/08/13/modern-php-security-part-1-bug-classes/)
  - **Design Patterns**
    - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
    - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
