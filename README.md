@@ -21,6 +21,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ## API
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
  - [Google API Design Guide](https://cloud.google.com/apis/design/)
+ - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
  - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
  - [Google Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
  - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_scheme_guidelines)
