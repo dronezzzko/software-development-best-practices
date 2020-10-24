@@ -15,6 +15,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Conventional Commits](https://conventionalcommits.org/)
 
 ## System Design
+ - [Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
  - [Modern Web Apps Architectural Principles](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
  - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
  - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
