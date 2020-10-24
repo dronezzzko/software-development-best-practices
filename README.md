@@ -83,6 +83,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Sass Guidelines](https://sass-guidelin.es/)
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
+ - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 
  ## Unit Testing
   - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
