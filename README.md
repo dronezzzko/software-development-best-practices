@@ -44,6 +44,8 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
 
 ## Languages
+### TypeScript
+ - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ### JavaScript
  - [JS the Right Way](https://github.com/braziljs/js-the-right-way)
  - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
@@ -56,6 +58,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Python Best Practices Guidebook](https://github.com/realpython/python-guide)
  - [Python Patterns](https://github.com/faif/python-patterns)
  - [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/)
+ - [Design Patterns in Python](https://github.com/RefactoringGuru/design-patterns-python)
 ### PHP
  - [PHP: The Right Way](https://phptherightway.com/)
  - [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
@@ -69,6 +72,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - **Design Patterns**
    - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
    - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+   - [Design Patterns in PHP](https://github.com/RefactoringGuru/design-patterns-php/)
  - **DDD**
    - [Practical CQRS, DDD, ADR, hexagonal architecture](https://github.com/ferrius/ddd-cqrs-example)
    - [PHP 7 DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample)
