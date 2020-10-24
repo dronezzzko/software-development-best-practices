@@ -70,6 +70,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
    - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
    - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
  - **DDD**
+   - [Practical CQRS, DDD, ADR, hexagonal architecture](https://github.com/ferrius/ddd-cqrs-example)
    - [PHP 7 DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample)
    - [Domain-Driven Design in a PHP project using Symfony](https://github.com/jorge07/ddd-playground/)
    - [Domain-driven design e-shop cart demonstration](https://github.com/simara-svatopluk/cart)
