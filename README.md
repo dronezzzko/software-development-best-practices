@@ -19,6 +19,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
  - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
  - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+ - [Building Microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/)
 
 ## API
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
@@ -29,7 +30,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Google Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
  - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_scheme_guidelines)
  - [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/)
- - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
  - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
  - [API Security Best Practices]( https://github.com/GitGuardian/APISecurityBestPractices)
  - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
