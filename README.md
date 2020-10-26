@@ -88,10 +88,12 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Maintainable CSS](https://maintainablecss.com/)
  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
  - [Sass Guidelines](https://sass-guidelin.es/)
+## Tools
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
  - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
-
+### NoSQL
+ - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
  ## Unit Testing
   - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
   - [Unit Testing Best Practices: How to Get the Most Out of Your Test Automation](https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou)
