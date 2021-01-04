@@ -22,7 +22,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
  - [Building Microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/)
  - **Systems design explains the world**
-	 - [Systems design explains the world: **volume 1 **](https://apenwarr.ca/log/20201227 "Systems design explains the world: **volume 1 **")
+	 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227 "Systems design explains the world: **volume 1 **")
 
 ## API
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
