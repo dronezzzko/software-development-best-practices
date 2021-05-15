@@ -74,6 +74,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Modern PHP Security](https://labs.detectify.com/2020/08/13/modern-php-security-part-1-bug-classes/)
  - [A decoupled PHP architecture inspired by the Clean Architecture](https://medium.com/engenharia-arquivei/a-decoupled-php-architecture-inspired-by-the-clean-architecture-788b30ab52c2)
  - [The Symfony Framework Best Practices](https://symfony.com/doc/current/best_practices.html)
+ - [PHP Internals Book](https://www.phpinternalsbook.com/)
  - **Design Patterns**
    - [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/)
    - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
