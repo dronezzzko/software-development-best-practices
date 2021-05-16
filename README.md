@@ -56,6 +56,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
  - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
  - [JavaScript Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+ - [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
  - [Spellbook of Modern webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
  - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 ### Python
