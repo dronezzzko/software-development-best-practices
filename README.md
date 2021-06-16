@@ -47,6 +47,9 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [API Security Best Practices](https://github.com/GitGuardian/APISecurityBestPractices)
  - [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
 
+## Containerization
+ - [Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
+
 ## Languages
 ### TypeScript
  - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
