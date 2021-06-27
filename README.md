@@ -50,6 +50,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ## Containerization
  - [Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
  - [Docker development best practices](https://docs.docker.com/develop/dev-best-practices/)
+ - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
 
 ## Languages
 ### TypeScript
