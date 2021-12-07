@@ -54,6 +54,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
 ## Languages
 ### Go
+ - [Effective Go](https://go.dev/doc/effective_go)
  - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 ### TypeScript
  - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
