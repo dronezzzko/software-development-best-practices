@@ -3,9 +3,8 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
 ## Common
  - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
- - [Programming Principles](https://en.wikipedia.org/wiki/Category:Programming_principles)
- - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
  - [Programming Principles](https://github.com/webpro/programming-principles)
+ - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
  - [Professional Programming](https://github.com/charlax/professional-programming)
  - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
  - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
