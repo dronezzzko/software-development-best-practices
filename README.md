@@ -53,6 +53,8 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
 
 ## Languages
+### Go
+ - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 ### TypeScript
  - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ### JavaScript
