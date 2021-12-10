@@ -60,6 +60,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
  - [Modern Business Software in Go](https://threedots.tech/series/modern-business-software-in-go/)
  - [DDD in Go](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
+ - [Wild Workouts DDD](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
 ### TypeScript
  - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ### JavaScript
