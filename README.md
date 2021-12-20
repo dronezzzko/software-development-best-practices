@@ -56,6 +56,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
  - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
  - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+ - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide)
  - [Modern Business Software in Go](https://threedots.tech/series/modern-business-software-in-go/)
  - [DDD in Go](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
  - [Wild Workouts DDD](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
