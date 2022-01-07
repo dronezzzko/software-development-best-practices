@@ -52,6 +52,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ## Languages
 ### Go
  - [Effective Go](https://go.dev/doc/effective_go)
+ - [Go Proverbs by Rob Pike](https://go-proverbs.github.io/)
  - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)
  - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
  - [Knowledge Base for Go Programming](https://go101.org/)
