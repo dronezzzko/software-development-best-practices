@@ -80,6 +80,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Python Patterns](https://github.com/faif/python-patterns)
  - [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/)
  - [Design Patterns in Python](https://github.com/RefactoringGuru/design-patterns-python)
+ - [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 ### PHP
  - [PHP: The Right Way](https://phptherightway.com/)
  - [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
