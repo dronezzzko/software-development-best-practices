@@ -55,6 +55,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Go Proverbs by Rob Pike](https://go-proverbs.github.io/)
  - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)
  - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+ - [The Zen of Go](https://the-zen-of-go.netlify.app/)
  - [Knowledge Base for Go Programming](https://go101.org/)
  - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
  - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
