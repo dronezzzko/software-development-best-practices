@@ -14,10 +14,10 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Conventional Commits](https://conventionalcommits.org/)
 
 ## System Design
+ - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
  - [Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
  - [Modern Web Apps Architectural Principles](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
  - [Software Design](https://en.wikipedia.org/wiki/Category:Software_design)
- - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
  - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
  - [Building Microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/)
 
