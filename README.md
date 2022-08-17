@@ -21,6 +21,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
  - [Building Microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/)
  - [Patterns of Service-Oriented Architecture](https://multithreaded.stitchfix.com/blog/2017/05/09/patterns-of-service-oriented-architecture/)
+ - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## API
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
