@@ -79,6 +79,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
  - [Spellbook of Modern webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
  - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+ - [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
 ### Python
  - [Python Best Practices Guidebook](https://github.com/realpython/python-guide)
  - [Python Patterns](https://github.com/faif/python-patterns)
