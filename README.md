@@ -115,6 +115,8 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Maintainable CSS](https://maintainablecss.com/)
  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
  - [Sass Guidelines](https://sass-guidelin.es/)
+### Shell Script
+ - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 ## Tools
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
