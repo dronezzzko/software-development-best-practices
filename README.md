@@ -53,6 +53,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
 ## Languages
 ### Go
+ - [Google's Go Style Guide](https://google.github.io/styleguide/go/index)
  - [Effective Go](https://go.dev/doc/effective_go)
  - [Go Proverbs by Rob Pike](https://go-proverbs.github.io/)
  - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)
