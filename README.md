@@ -54,10 +54,11 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ## Languages
 ### Go
  - [Google's Go Style Guide](https://google.github.io/styleguide/go/index)
+ - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+ - [Thanos Coding Style Guide](https://github.com/thanos-io/thanos/blob/main/docs/contributing/coding-style-guide.md)
  - [Effective Go](https://go.dev/doc/effective_go)
  - [Go Proverbs by Rob Pike](https://go-proverbs.github.io/)
  - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)
- - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
  - [The Zen of Go](https://the-zen-of-go.netlify.app/)
  - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
  - [Knowledge Base for Go Programming](https://go101.org/)
