@@ -8,7 +8,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Professional Programming](https://github.com/charlax/professional-programming)
  - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
  - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
- - [Web Fundamentals](https://developers.google.com/web/fundamentals/)
  - [The Twelve-Factor App](https://12factor.net/)
  - [3factor App](https://3factor.app/)
  - [Conventional Commits](https://conventionalcommits.org/)
