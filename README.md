@@ -124,6 +124,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [SQL Style Guide](https://www.sqlstyle.guide/)
  - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
  - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
+ - [Use The Index, Luke](https://use-the-index-luke.com)
 ### NoSQL
  - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
  ## Unit Testing
