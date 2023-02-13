@@ -70,6 +70,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Wild Workouts DDD](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
  - [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
  - [Design Patterns in Go](https://github.com/RefactoringGuru/design-patterns-go)
+ - [Designing Go Libraries: The Talk: The Article](https://abhinavg.net/2022/12/06/designing-go-libraries/)
 ### TypeScript
  - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ### JavaScript
