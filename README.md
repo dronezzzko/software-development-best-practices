@@ -3,8 +3,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 
 * [Philosophies and Common Practices](#philosophies-and-common-practices)
 * [System Design](#system-design)
-    * [for-range loop](#for-range-loop)
-    * [zero-sized type](#zero-sized-type-zst)
 * [API](#api)
 * [Security](#security)
 * [Containerization](#containerization)
