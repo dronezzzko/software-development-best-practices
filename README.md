@@ -1,7 +1,7 @@
 # Software Development Best Practices
 Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and essential collection of software engineering practices.
 
-## Common
+## Philosophies and Common Practices  
  - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  - [Programming Principles](https://github.com/webpro/programming-principles)
  - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
@@ -132,3 +132,5 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
   - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
   - [Unit Testing Best Practices: How to Get the Most Out of Your Test Automation](https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou)
   - [Arrange Act Assert]( http://wiki.c2.com/?ArrangeActAssert)
+### Kafka
+  - [Designing Events and Event Streams: Introduction and Best Practices](https://www.confluent.io/blog/designing-events-and-event-streams-introduction-and-best-practices/)
