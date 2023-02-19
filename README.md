@@ -128,9 +128,9 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Use The Index, Luke](https://use-the-index-luke.com)
 ### NoSQL
  - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
+### Kafka
+  - [Designing Events and Event Streams: Introduction and Best Practices](https://www.confluent.io/blog/designing-events-and-event-streams-introduction-and-best-practices/)
  ## Unit Testing
   - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
   - [Unit Testing Best Practices: How to Get the Most Out of Your Test Automation](https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou)
   - [Arrange Act Assert]( http://wiki.c2.com/?ArrangeActAssert)
-### Kafka
-  - [Designing Events and Event Streams: Introduction and Best Practices](https://www.confluent.io/blog/designing-events-and-event-streams-introduction-and-best-practices/)
