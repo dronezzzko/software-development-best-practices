@@ -13,6 +13,12 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
     * [Python](#python)
     * [Shell Script](#shell-script)
     * [TypeScript](#typescript)
+* [Tools](#tools)
+    * [Containerization](#containerization)
+    * [Kafka](#kafka)
+    * [NoSQL](#nosql)
+    * [SQL](#sql)
+    * [Testing](#testing)
 ---
 ## Philosophies and Common Practices  
  - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
@@ -57,11 +63,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [OWASP API Security Project](https://owasp.org/www-project-api-security/)
  - [API Security Best Practices](https://github.com/GitGuardian/APISecurityBestPractices)
  - [Web Developer Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist)
-
-## Containerization
- - [Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
- - [Docker development best practices](https://docs.docker.com/develop/dev-best-practices/)
- - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
 
 ## Languages
 ### Go
@@ -127,16 +128,20 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 ### TypeScript
  - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ## Tools
+### Containerization
+ - [Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
+ - [Docker development best practices](https://docs.docker.com/develop/dev-best-practices/)
+ - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
+### Kafka
+  - [Designing Events and Event Streams: Introduction and Best Practices](https://www.confluent.io/blog/designing-events-and-event-streams-introduction-and-best-practices/)
+### NoSQL
+ - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
  - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
  - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
  - [Use The Index, Luke](https://use-the-index-luke.com)
-### NoSQL
- - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
-### Kafka
-  - [Designing Events and Event Streams: Introduction and Best Practices](https://www.confluent.io/blog/designing-events-and-event-streams-introduction-and-best-practices/)
- ## Unit Testing
+ ### Testing
   - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
   - [Unit Testing Best Practices: How to Get the Most Out of Your Test Automation](https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou)
   - [Arrange Act Assert]( http://wiki.c2.com/?ArrangeActAssert)
