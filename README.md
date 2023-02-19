@@ -1,6 +1,21 @@
 # Software Development Best Practices
 Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and essential collection of software engineering practices.
 
+* [Philosophies and Common Practices](#philosophies-and-common-practices)
+* [System Design](#system-design)
+    * [for-range loop](#for-range-loop)
+    * [zero-sized type](#zero-sized-type-zst)
+* [API](#api)
+* [Security](#security)
+* [Containerization](#containerization)
+* [Languages](#languages)
+    * [Go](#go)
+    * [JavaScript](#javascript)
+    * [PHP](#php)
+    * [Python](#python)
+    * [Shell Script](#shell-script)
+    * [TypeScript](#typescript)
+---
 ## Philosophies and Common Practices  
  - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  - [Programming Principles](https://github.com/webpro/programming-principles)
@@ -71,8 +86,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
  - [Design Patterns in Go](https://github.com/RefactoringGuru/design-patterns-go)
  - [Designing Go Libraries: The Talk: The Article](https://abhinavg.net/2022/12/06/designing-go-libraries/)
-### TypeScript
- - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ### JavaScript
  - [JS the Right Way](https://github.com/braziljs/js-the-right-way)
  - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
@@ -83,12 +96,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Spellbook of Modern webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
  - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
  - [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
-### Python
- - [Python Best Practices Guidebook](https://github.com/realpython/python-guide)
- - [Python Patterns](https://github.com/faif/python-patterns)
- - [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/)
- - [Design Patterns in Python](https://github.com/RefactoringGuru/design-patterns-python)
- - [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 ### PHP
  - [PHP: The Right Way](https://phptherightway.com/)
  - [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
@@ -111,15 +118,16 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
    - [Domain-driven design e-shop cart demonstration](https://github.com/simara-svatopluk/cart)
 - **Unit Testing**
    - [Unit testing tips by examples in PHP](https://github.com/sarven/unit-testing-tips)
-### HTML/CSS
- - [Code Guide: Standards for developing consistent, flexible, and sustainable HTML and CSS.](https://codeguide.co/)
- - [CSS Guidelines](https://cssguidelin.es/)
- - [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
- - [Maintainable CSS](https://maintainablecss.com/)
- - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
- - [Sass Guidelines](https://sass-guidelin.es/)
+### Python
+ - [Python Best Practices Guidebook](https://github.com/realpython/python-guide)
+ - [Python Patterns](https://github.com/faif/python-patterns)
+ - [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/)
+ - [Design Patterns in Python](https://github.com/RefactoringGuru/design-patterns-python)
+ - [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 ### Shell Script
  - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
+### TypeScript
+ - [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
 ## Tools
 ### SQL
  - [SQL Style Guide](https://www.sqlstyle.guide/)
