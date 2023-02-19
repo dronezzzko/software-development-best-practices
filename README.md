@@ -80,7 +80,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide)
  - [Modern Business Software in Go](https://threedots.tech/series/modern-business-software-in-go/)
  - [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
- - [DDD in Go](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
  - [Wild Workouts DDD](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
  - [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
  - [Design Patterns in Go](https://github.com/RefactoringGuru/design-patterns-go)
