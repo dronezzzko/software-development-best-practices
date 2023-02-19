@@ -132,7 +132,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Docker development best practices](https://docs.docker.com/develop/dev-best-practices/)
  - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
 ### Kafka
-  - [Designing Events and Event Streams: Introduction and Best Practices](https://www.confluent.io/blog/designing-events-and-event-streams-introduction-and-best-practices/)
+  - [The Top 10 Takeaways from Nearly 200 Kafka Experts](https://www.confluent.io/blog/top-10-kafka-use-cases-lessons-guides-from-200-experts/)
 ### NoSQL
  - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
 ### SQL
