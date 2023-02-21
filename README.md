@@ -133,6 +133,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
 ### Kafka
   - [The Top 10 Takeaways from Nearly 200 Kafka Experts](https://www.confluent.io/blog/top-10-kafka-use-cases-lessons-guides-from-200-experts/)
+  - [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/)
 ### NoSQL
  - [Redis Best Practices](https://redislabs.com/redis-best-practices/)
 ### SQL
