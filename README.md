@@ -77,7 +77,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Knowledge Base for Go Programming](https://go101.org/)
  - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
  - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
- - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide)
+ - [Twelve Go Best Practices from a gopher at Google](https://talks.golang.org/2013/bestpractices.slide)
  - [Modern Business Software in Go](https://threedots.tech/series/modern-business-software-in-go/)
  - [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
  - [Wild Workouts DDD](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
