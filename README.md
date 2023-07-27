@@ -5,7 +5,6 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
 * [System Design](#system-design)
 * [API](#api)
 * [Security](#security)
-* [Containerization](#containerization)
 * [Languages](#languages)
     * [Go](#go)
     * [JavaScript](#javascript)
