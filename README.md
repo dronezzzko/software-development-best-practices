@@ -44,7 +44,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
  - [Azure API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
  - [Google API Design Guide](https://cloud.google.com/apis/design/)
- - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
+ - [Heroku Platform HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
  - [Google Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
  - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
  - [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/)
