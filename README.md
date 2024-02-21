@@ -84,6 +84,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and e
  - [Designing Go Libraries: The Talk: The Article](https://abhinavg.net/2022/12/06/designing-go-libraries/)
  - [Data Race Patterns in Go](https://www.uber.com/en-US/blog/data-race-patterns-in-go/)
  - [4 practical principles of high-quality database integration tests in Go](https://threedots.tech/post/database-integration-testing/)
+ - [https://www.sobyte.net/post/2023-05/summarized-from-100-go-mistakes/](https://www.sobyte.net/post/2023-05/summarized-from-100-go-mistakes/)
 ### JavaScript
  - [JS the Right Way](https://github.com/braziljs/js-the-right-way)
  - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
