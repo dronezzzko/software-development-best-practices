@@ -1,5 +1,5 @@
 # Software Development Best Practices
-Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a modest and essential collection of software engineering practices.
+Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensive collection of essential software engineering practices.
 
 * [Philosophies and Common Practices](#philosophies-and-common-practices)
 * [System Design](#system-design)
