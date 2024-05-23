@@ -147,6 +147,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensiv
   - [Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
   - [Setting Up PostgreSQL Failover and Failback, the Right Way!](https://www.highgo.ca/2023/04/10/setting-up-postgresql-failover-and-failback-the-right-way/)
   - [PostgreSQL Stories: From slow query to fast](https://render.com/blog/postgresql-slow-query-to-fast-via-stats)
+  - [13 Tips to Improve PostgreSQL Insert Performance](https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance/)
 #### MySQL
  - [Configuring MariaDB for Optimal Performance](https://mariadb.com/kb/en/configuring-mariadb-for-optimal-performance/)
  ### Testing
