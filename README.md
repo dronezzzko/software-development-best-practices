@@ -1,5 +1,5 @@
 # Software Development Best Practices
-Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensive collection of essential software engineering practices.
+Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensive collection of essential software engineering practices and recommendations.
 
 * [Philosophies and Common Practices](#philosophies-and-common-practices)
 * [System Design](#system-design)
@@ -146,6 +146,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensiv
   - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
   - [Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
   - [Setting Up PostgreSQL Failover and Failback, the Right Way!](https://www.highgo.ca/2023/04/10/setting-up-postgresql-failover-and-failback-the-right-way/)
+  - [PostgreSQL Stories: From slow query to fast](https://render.com/blog/postgresql-slow-query-to-fast-via-stats)
 #### MySQL
  - [Configuring MariaDB for Optimal Performance](https://mariadb.com/kb/en/configuring-mariadb-for-optimal-performance/)
  ### Testing
