@@ -136,15 +136,18 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensiv
   - [The Top 10 Takeaways from Nearly 200 Kafka Experts](https://www.confluent.io/blog/top-10-kafka-use-cases-lessons-guides-from-200-experts/)
   - [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/)
 ### NoSQL
- - [Redis Best Practices: Expert Tips for High Performance](https://www.dragonflydb.io/guides/redis-best-practices/)
+  - [Redis Best Practices: Expert Tips for High Performance](https://www.dragonflydb.io/guides/redis-best-practices/)
 ### SQL
- - [SQL Style Guide](https://www.sqlstyle.guide/)
- - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
- - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
- - [Use The Index, Luke](https://use-the-index-luke.com)
+  - [SQL Style Guide](https://www.sqlstyle.guide/)
+  - [Use The Index, Luke](https://use-the-index-luke.com)
+  - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
+  - [The Querynomicon: An Introduction to SQL for Weary Data Scientists](https://gvwilson.github.io/sql-tutorial/)
+#### PostgreSQL
+  - [PostgreSQL: Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+  - [Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
+  - [Setting Up PostgreSQL Failover and Failback, the Right Way!](https://www.highgo.ca/2023/04/10/setting-up-postgresql-failover-and-failback-the-right-way/)
+#### MySQL
  - [Configuring MariaDB for Optimal Performance](https://mariadb.com/kb/en/configuring-mariadb-for-optimal-performance/)
- - [Setting Up PostgreSQL Failover and Failback, the Right Way!](https://www.highgo.ca/2023/04/10/setting-up-postgresql-failover-and-failback-the-right-way/)
- - [The Querynomicon: An Introduction to SQL for Weary Data Scientists](https://gvwilson.github.io/sql-tutorial/)
  ### Testing
   - [Unit testing best practices with .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
   - [Unit Testing Best Practices: How to Get the Most Out of Your Test Automation](https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou)
