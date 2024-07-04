@@ -85,6 +85,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensiv
  - [Data Race Patterns in Go](https://www.uber.com/en-US/blog/data-race-patterns-in-go/)
  - [4 practical principles of high-quality database integration tests in Go](https://threedots.tech/post/database-integration-testing/)
  - [What can be summarized from 100 Go Mistakes?](https://www.sobyte.net/post/2023-05/summarized-from-100-go-mistakes/)
+ - [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 ### JavaScript
  - [JS the Right Way](https://github.com/braziljs/js-the-right-way)
  - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
