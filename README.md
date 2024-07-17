@@ -134,6 +134,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensiv
  - [Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
  - [Docker development best practices](https://docs.docker.com/develop/dev-best-practices/)
  - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
+ - [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 ### Kafka
   - [The Top 10 Takeaways from Nearly 200 Kafka Experts](https://www.confluent.io/blog/top-10-kafka-use-cases-lessons-guides-from-200-experts/)
   - [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/)
