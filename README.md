@@ -88,6 +88,7 @@ Hey! I'm [@DroneZzZko](https://github.com/DroneZzZko) and this is a comprehensiv
  - [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
  - [Profiling in Go: A Practical Guide](https://nyadgar.com/posts/go-profiling-like-a-pro/)
  - [Mastering SOLID Principles with Go Examples](https://packagemain.tech/p/mastering-solid-principles-with-go)
+ - [gRPC: Anti-Patterns of Client creation](https://github.com/grpc/grpc-go/blob/master/Documentation/anti-patterns.md)
 ### JavaScript
  - [JS the Right Way](https://github.com/braziljs/js-the-right-way)
  - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
